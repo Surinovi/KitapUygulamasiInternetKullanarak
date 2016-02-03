@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KitapUygulamasiInternetKullanarak</string>
+    <string name="btnSavetxt">Save</string>
+    <string name="btnContinuetxt">Continue</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="btnSrctxt">Search</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="newBookText">New Books of Today</string>
+    <string name="hint_txt">Enter Book Name</string>
+</resources>
